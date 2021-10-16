@@ -1,3 +1,3 @@
 # hackgwinnett-github-workshop
 Materials for Git/Github HackGwinnett 2021 workshop.
-Pull request
+Created a pull request to the main branch readme page.
